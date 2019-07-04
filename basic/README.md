@@ -1,4 +1,4 @@
 run the following commands in your terminal respectively;
-
-1 npm install //download dependencies
-2 npm start  //use browser of choice
+1  cd into project
+2 npm install //download dependencies
+3  npm start  //use browser of choice
